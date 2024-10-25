@@ -29,21 +29,28 @@ A brief introduction about yourself. Mention your background, interests, and wha
 - **GitHub:** [link-to-github-repo](link-to-github)
 
 ## Education
-- **Degree:** Your degree (e.g., Bachelor of Science in Computer Science)
-- **University:** Your University Name
-- **Year of Graduation:** Year
+- **Degree:** Web Developement
+- **University:** Humber College
+- **Year of Graduation:** 2024-present
+
+- **Degree:** Industrial Design (BA)
+- **University:** OCAD University
+- **Year of Graduation:** 2010-2015
 
 ## Experience
 
-### Job Title | Company Name
-*Month Year – Month Year*
+### Web Designer | Hongmall Ltd.
+*March 2023 – May 2024*
 - Briefly describe your responsibilities and achievements.
 
-### Job Title | Company Name
-*Month Year – Month Year*
+### Multimedia Designer | Spaceship HK
+*SEP 2021 – Feb 2023*
+- Briefly describe your responsibilities and achievements.
+
+### Web Designer | Spaceship HK
+*May 2020 – Dec 2020*
 - Briefly describe your responsibilities and achievements.
 
 ## Contact
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **GitHub:** [Your GitHub Profile](link-to-github)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/wanchanlin/)
+- **GitHub:** [Your GitHub Profile](https://github.com/wanchanlin)
