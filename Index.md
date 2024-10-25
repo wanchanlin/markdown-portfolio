@@ -1,6 +1,6 @@
-# Your Name
+# Wanchan Lin
 
-![Profile Picture](link-to-your-image.jpg)
+![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQFt-pim7AU32Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699252503719?e=1735171200&v=beta&t=Kv78klbeMmq4ptaMkSnlG81BNsc0PI3fRVgsmrhdk4A)
 
 ## About Me
 A brief introduction about yourself. Mention your background, interests, and what you're passionate about.
