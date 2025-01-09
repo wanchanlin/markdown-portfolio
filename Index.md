@@ -1,6 +1,6 @@
 # Wanchan Lin (Joyce)
 
-![Profile Picture](images.jpg))
+![Profile Picture](images.jpg)
 
 ## About Me
 As a full-stack designer with over 8 years of experience, I specialize in creating visually stunning designs for various media, including graphic design, video production, and motion graphics. I have a strong foundation in the Adobe Creative Suite and have worked with clients in the entertainment, fashion, and tech industries. In my current role at Hongmall, I have led Figma workshops and managed marketing design projects in Canada. I am constantly seeking to improve my skills and stay up-to-date on the latest design trends. If you have a project that could benefit from my expertise, please don't hesitate to reach out.
