@@ -1,6 +1,6 @@
 # Wanchan Lin (Joyce)
 
-![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQFt-pim7AU32Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699252503719?e=1735171200&v=beta&t=Kv78klbeMmq4ptaMkSnlG81BNsc0PI3fRVgsmrhdk4A)
+![Profile Picture]([https://media.licdn.com/dms/image/v2/D5603AQFt-pim7AU32Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699252503719?e=1735171200&v=beta&t=Kv78klbeMmq4ptaMkSnlG81BNsc0PI3fRVgsmrhdk4A](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Faww%2Fcomments%2Ffeijye%2Fcute_parrot%2F&psig=AOvVaw36GG58NizWdULiKicSmfHy&ust=1736522466525000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj1hLj46IoDFQAAAAAdAAAAABAE))
 
 ## About Me
 As a full-stack designer with over 8 years of experience, I specialize in creating visually stunning designs for various media, including graphic design, video production, and motion graphics. I have a strong foundation in the Adobe Creative Suite and have worked with clients in the entertainment, fashion, and tech industries. In my current role at Hongmall, I have led Figma workshops and managed marketing design projects in Canada. I am constantly seeking to improve my skills and stay up-to-date on the latest design trends. If you have a project that could benefit from my expertise, please don't hesitate to reach out.
